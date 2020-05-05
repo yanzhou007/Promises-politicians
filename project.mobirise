@@ -14,7 +14,7 @@
     "uniqCompNum": 110,
     "versionPublish": "4.11.5",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/black-and-white-bracelet-cooperation-814544-photo-by-savvas-stavrinos-from-pexels-2.jpg",
     "": "on",
     "noImageResize": true,
     "robotsSwitcher": false,
